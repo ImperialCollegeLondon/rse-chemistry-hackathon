@@ -6,7 +6,7 @@
 * If you plan to bring a project to work on share some details on our GitHub
   page by [creating a new issue][new issue].
 
-[new issue]: https://github.com/ImperialCollegeLondon/rse-chemistry-hackathon/issues/new
+[new issue]: https://github.com/ImperialCollegeLondon/rse-chemistry-hackathon/issues/new?assignees=&labels=project&template=custom.md&title=Project+description
 
 ## After the event
 
