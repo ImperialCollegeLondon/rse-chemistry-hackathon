@@ -63,7 +63,8 @@ expertise or maturity of their project.
 We'll start with some scene setting on the topic at hand. Then we'll split into
 different groups based on people's projects/interests. Members of the College
 RSE team will be on hand to provide advice, sources of information, and
-technical help throughout.
+technical help throughout. The whole group will reconvene at regular intervals
+to share updates and experiences.
 
 We'll be using Microsoft Teams to run the session. Breakout rooms will
 facilitate focused group work. Please be prepared to share your screen and talk
