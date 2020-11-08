@@ -2,7 +2,7 @@
 
 ## Before the event
 
-* Create a [placeholder in your Calendar](placeholder).
+* Create a [placeholder in your Calendar][placeholder].
 * Read our [Code of Conduct](CODE_OF_CONDUCT.md).
 * If you plan to bring a project to work on share some details on our GitHub
   page by [creating a new issue][new issue].
