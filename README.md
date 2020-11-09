@@ -1,7 +1,8 @@
 # Imperial Chemistry Computational Reproducibility Hackathon
 
 **What?** - A hackathon event focusing on reproducibility in computational
-research. To be led by the Imperial College Research Software Engineering Team.
+research. To be led by the Imperial College [Research Software Engineering (RSE)
+Team][RSE].
 
 **When?** - Wednesday 2nd December 2020, 10:00-16:00
 
@@ -26,9 +27,9 @@ dedicated time to level-up a project.
 
 This particular event is primarily being advertised within Chemistry to try and
 tap into an existing coherent community and to try and raise awareness of the
-activities of the RSE team. It is by no means meant to exclude participants from
-other areas however, so please feel free to sign up. We hope to repeat this
-format of event targeting other areas.
+activities of the Research Software Engineering team. It is by no means meant to
+exclude participants from other areas however, so please feel free to sign
+up. We hope to repeat this format of event targeting other areas.
 
 ## Why the focus on reproducibility?
 
@@ -38,8 +39,8 @@ College. Key challenges in this area were highlighted in a recent [Nature
 article][nature] and there are a number of grass roots movements dedicated to
 solutions (e.g. [Reprohack][], [ReproducibiliTea][], [The Turing
 Way][turing-way], [Software Carpentry][]). We hope this workshop will provide a
-valuable opportunity for the RSE team to share our expertise with the wider
-community.
+valuable opportunity for the Research Software Engineering team to share our
+expertise with the wider community.
 
 [nature]: https://www.nature.com/articles/d41586-020-02462-7
 [reprohack]: https://reprohack.github.io/reprohack-hq/
@@ -62,9 +63,9 @@ expertise or maturity of their project.
 
 We'll start with some scene setting on the topic at hand. Then we'll split into
 different groups based on people's projects/interests. Members of the College
-RSE team will be on hand to provide advice, sources of information, and
-technical help throughout. The whole group will reconvene at regular intervals
-to share updates and experiences.
+Research Software Engineering team will be on hand to provide advice, sources of
+information, and technical help throughout. The whole group will reconvene at
+regular intervals to share updates and experiences.
 
 We'll be using Microsoft Teams to run the session. Breakout rooms will
 facilitate focused group work. Please be prepared to share your screen and talk
