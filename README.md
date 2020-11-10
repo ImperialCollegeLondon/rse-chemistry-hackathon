@@ -1,4 +1,4 @@
-# Imperial Chemistry Computational Reproducibility Hackathon
+# Imperial Computational Reproducibility Hackathon
 
 **What?** - A hackathon event focusing on reproducibility in computational
 research. To be led by the Imperial College [Research Software Engineering (RSE)
@@ -17,6 +17,15 @@ If you're already signed up, see our [participation page](participating.md).
 
 [RSE]: https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/research-software-engineering/
 [sign up here]: https://forms.office.com/Pages/ResponsePage.aspx?id=B3WJK4zudUWDC0-CZ8PTB5Fu0TPn6jVEtbP45q-8NH1UNFIwWjhVUFVXVzRMSlc1MzEzMFRGQjFTTS4u
+
+## Provisional Schedule
+
+* 10:00 - Welcome and Introduction
+* 10:20 - Hacking
+* 12:15 - Catch up before Lunch
+* 13:15 - Hacking
+* 15:45 - Wrap up
+* 16:00 - End of session
 
 ## Who is this event for?
 
