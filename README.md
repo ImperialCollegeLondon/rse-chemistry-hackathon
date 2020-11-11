@@ -11,6 +11,8 @@ Teams.
 
 **Who?** - You!
 
+**Questions?** - Email c.cave-ayland@imperial.ac.uk with questions big or small.
+
 [Sign up here][]
 
 If you're already signed up, see our [participation page](participating.md).
