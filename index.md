@@ -1,3 +1,12 @@
+## Schedule
+
+* 10:00 - Welcome and Introduction
+* 10:20 - Hacking
+* 12:15 - Catch up before Lunch
+* 13:15 - Hacking
+* 15:45 - Wrap up
+* 16:00 - End of session
+
 ## Some self-evident truths
 
 (once you've worked in research for a while)
@@ -18,6 +27,8 @@
 * [Society of Research Software Engineering][RSE]
 * [Software Carpentry]
 * [Software Sustainability Institute][ssi]
+* [The Alan Turing Institute][alan-turing] and [The Turing Way]
+* [The Journal of Open Source Software][joss]
 
 [bssw]: https://bssw.io/
 [MolSSI]: https://molssi.org/
@@ -27,6 +38,9 @@
 [RSE]: https://society-rse.org/
 [software Carpentry]: https://software-carpentry.org/
 [ssi]: https://www.software.ac.uk/about/manifesto
+[alan-turing]: https://www.turing.ac.uk/
+[the turing way]: https://the-turing-way.netlify.app/welcome
+[joss]: https://joss.theoj.org/
 
 ## Defining our terms
 
@@ -42,6 +56,13 @@ generalisable findings within a domain.
 ![A diagram showing different aspects of reproducibility](https://nbis-reproducible-research.readthedocs.io/en/latest/images/tutorials_overview.png)
 
 Taken from <https://nbis-reproducible-research.readthedocs.io/en/latest/tutorial_intro/>
+
+## About you
+
+* [Survey results]
+* [Projects](https://github.com/ImperialCollegeLondon/rse-chemistry-hackathon/issues)
+
+[Survey results]: https://forms.office.com/Pages/AnalysisPage.aspx?id=B3WJK4zudUWDC0-CZ8PTB5Fu0TPn6jVEtbP45q-8NH1UNFIwWjhVUFVXVzRMSlc1MzEzMFRGQjFTTS4u&AnalyzerToken=DxRTYyQcYzfokXzekAp4YCCviITDlgx0
 
 ## Resources
 
@@ -76,7 +97,7 @@ Taken from <https://nbis-reproducible-research.readthedocs.io/en/latest/tutorial
 ### Environment Management
 
 This is tricky one to cover in details as doing it correctly tends to vary on a
-a language by language basis. Conda is the recommended approach here due to its
+language-by-language basis. Conda is the recommended approach here due to its
 flexibility in covering multiple languages as well as virtual environments.
 
 * If you're not used to using virtual environments with Conda [this towards data
@@ -98,11 +119,14 @@ flexibility in covering multiple languages as well as virtual environments.
 * [Ten simple rules for writing Dockerfiles for reproducible data
   science][rules] gives a very valuable set of pointers for using Docker in the
   context of data analysis. A must read for creating portable analyses.
+* Once you've gotten the hang of Docker basics these [best practice
+  tips][docker-best] will help you write clean and efficient Dockerfiles.
 * A variety of courses for Docker are available on LinkedIn
   Learning. <https://www.linkedin.com/learning/search?keywords=docker>
 * The relevant section of [The Turing Way][turing-containers]
 
 [dockerXsingularity]: https://epcced.github.io/2020-12-08-Containers-Online/
+[docker-best]: https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 [rules]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008316
 [turing-containers]: https://the-turing-way.netlify.app/reproducible-research/renv/renv-containers.html
 
@@ -128,7 +152,7 @@ flexibility in covering multiple languages as well as virtual environments.
 
 * For basic problems `make` can be a good tool if you're already familiar with
   it. Software carpentry have a [good lesson][make] on this.
-* Snakemake has an ok of [tutorials][snakemake] for getting started, though
+* Snakemake has an ok set of [tutorials][snakemake] for getting started, though
   you'll appreciate them best with a knowledge of bioinformatics. If you're
   working on Windows I'd probably ignore the advice to use `vagrant` and use the
   `Windows Subsystem for Linux` instead.
@@ -136,10 +160,14 @@ flexibility in covering multiple languages as well as virtual environments.
   struggled to find a tutorial that looked like it would work easily. Try the
   [documentation][nextflow] for an introduction and breakdown of a simple
   example.
+* If you're interested in something with a user friendly graphical interface you
+  could look at [Galaxy]. This takes a very different approach based on having a
+  permanent server available to run workflows.
 
 [make]: https://swcarpentry.github.io/make-novice/
 [snakemake]: https://snakemake.readthedocs.io/en/stable/tutorial/setup.html#setup-a-linux-vm-with-vagrant-under-windows
 [nextflow]: https://www.nextflow.io/docs/latest/getstarted.html
+[Galaxy]: https://galaxyproject.github.io/
 
 ### Testing and Continuous Integration
 
