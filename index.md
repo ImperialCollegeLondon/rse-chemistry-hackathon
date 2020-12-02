@@ -6,6 +6,7 @@
 * Reproducibility doesn't happen by itself
 * Open science and reproducibility go hand in hand
 * You'll thank yourself later
+* Technology is driving change and providing opportunities
 
 ## Organisations that care
 
@@ -33,7 +34,8 @@
 
 Taken from <https://the-turing-way.netlify.app/reproducible-research/overview/overview-definitions.html>
 
-Reproducibility is just the beginning! But it underpins the .
+Reproducibility is just the beginning, but it underpins the goal of
+generalisable findings within a domain.
 
 ## An overview of technologies
 
